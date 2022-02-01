@@ -1,0 +1,14 @@
+Assigment 1
+
+Command Line Argument: python3 main.py [folderpath]
+
+Will read pos.txt and neg.txt in given folder and output the following files into the same folder:
+negpos.txt
+out.csv
+out_ns.csv
+train.csv
+val.csv
+test.csv
+train_ns.csv
+val_ns.csv
+test_ns.csv
