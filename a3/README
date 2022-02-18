@@ -1,0 +1,2 @@
+1. Pass data folder with python3 main.py to get Word2Vec Model File
+2. Pass txt file with python3 inference.py
